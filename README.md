@@ -1,4 +1,4 @@
-# Gn-vendas
+# Gn-Vendas
 Proposta para a criação de um sistema de vendas.
 
 Para a execução deste projeto deve-se ter instalado em sua máquina o MySQL e ter um servidor local com suporte a PHP para poder testar o sistema. 
