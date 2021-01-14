@@ -1,5 +1,5 @@
 # Gn-vendas
-Desafio técnico - criação de um sistema de vendas.
+Proposta para a criação de um sistema de vendas.
 
 Para a execução deste projeto deve-se ter instalado em sua máquina o MySQL e ter um servidor local com suporte a PHP para poder testar o sistema. 
 (Utilizei o MySQL Workbench 8.0 e o XAMPP).
