@@ -1,11 +1,11 @@
-# gn-vendas
+# Gn-vendas
 Desafio técnico - criação de um sistema de vendas.
 
 Para a execução deste projeto deve-se ter instalado em sua máquina o MySQL e ter um servidor local com suporte a PHP para poder testar o sistema. 
 (Utilizei o MySQL Workbench 8.0 e o XAMPP).
 Foi utilizado como material de apoio API da Gerencianet (disponível no link --> https://dev.gerencianet.com.br/docs/gerar-boleto-bancario).
 
-<h1> Segue o desenvolvimento do projeto, em etapas, conforme os documentos postados no repositório desse projeto:</h1>
+Segue o desenvolvimento do projeto, em etapas, conforme os documentos postados no repositório desse projeto:
 
 “1 cadastro de produtos.html”: parte do código que recebe os dados solicitados para cadastrar os produtos como o nome e o valor.
 
