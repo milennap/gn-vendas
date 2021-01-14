@@ -7,17 +7,17 @@ Foi utilizado como material de apoio API da Gerencianet (disponível no link -->
 
 <B> Segue o desenvolvimento do projeto, em etapas, conforme os documentos postados no repositório desse projeto: </B>
 
-“1 cadastro de produtos.html”: parte do código que recebe os dados solicitados para cadastrar os produtos como o nome e o valor.
+<B> “1 cadastro de produtos.html”: </B> parte do código que recebe os dados solicitados para cadastrar os produtos como o nome e o valor.
 
-“salvando1.php”: parte do código que recebe e salva os dados cadastrais dos produtos, inserindo-os no banco de dados.
+<B> “salvando1.php”: </B> parte do código que recebe e salva os dados cadastrais dos produtos, inserindo-os no banco de dados.
 
-“2 listagem de produtos.html”: parte do código que recebe os dados do comprador como nome, CPF e telefone.
+<B> “2 listagem de produtos.html”: </B> parte do código que recebe os dados do comprador como nome, CPF e telefone.
 
-“salvando2.php”: parte do código que recebe e salva os dados do comprador, inserindo-os no banco de dados.
+<B> “salvando2.php”: </B> parte do código que recebe e salva os dados do comprador, inserindo-os no banco de dados.
 
-“imprimindo a listagem de produtos.php”: parte do código que imprime a listagem de todos os produtos cadastrados e que permite a solicitação de compra.
+<B> “imprimindo a listagem de produtos.php”: </B> parte do código que imprime a listagem de todos os produtos cadastrados e que permite a solicitação de compra.
 
-“gerarboleto.php”: parte do código que gera o boleto da compra solicitada.
+<B> “gerarboleto.php”: </B> parte do código que gera o boleto da compra solicitada.
 
-“banco de dados vendas.sql”: código da criação do banco de dados utilizado no projeto.
+<B> “banco de dados vendas.sql”: </B> código da criação do banco de dados utilizado no projeto.
 
